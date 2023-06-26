@@ -1,5 +1,11 @@
 # Hi I'm Ifan 👋
 Welcome to my github profile
+
+## About Me
+
+I'm a A Quality Assurance Engineer with 7 months of internship experience. Experienced in creating test cases and executing them to improve the functionality of the company's software. Possesses excellent problem-solving skills and attention to detail, resulting in the production of high-quality software.
+
+Feel free to reach out to me via email at ikhtiardi.s@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/syifanikhtiardi/).
 <!--
 **SyifanIkhtiardi/SyifanIkhtiardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
